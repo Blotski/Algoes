@@ -1,3 +1,5 @@
+// Number of 1 Bits
+
 function hammingWeight(n: number): number {
   let output: number = 0;
   // const binary: string = n.toString(2);
