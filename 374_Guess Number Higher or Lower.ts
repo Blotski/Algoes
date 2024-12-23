@@ -27,6 +27,5 @@ function guessNumber(n: number): number {
 };
 
 console.log(
-  's',
   guessNumber(n), // 8
 )
